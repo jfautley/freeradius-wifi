@@ -1,6 +1,6 @@
 # Simple FreeRADIUS configuration for Wifi 802.1X
 
-This is a simple set of configs, loosely based off the example provided by the [govwifi][GovWifi project].
+This is a simple set of configs, loosely based off the example provided by the [GovWifi Project][govwifi].
 
 ## Installation
 - Install the NetworkRadius FreeRADIUS package
@@ -11,6 +11,5 @@ This is a simple set of configs, loosely based off the example provided by the [
 - Setup an SSL cert
 - Start FreeRADIUS
 - Configure your wireless access points
-
 
 [govwifi]: https://github.com/alphagov/govwifi-frontend
