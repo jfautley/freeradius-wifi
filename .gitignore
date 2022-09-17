@@ -1,0 +1,4 @@
+# Files with secrets
+clients
+users
+certs/

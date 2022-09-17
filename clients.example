@@ -1,0 +1,7 @@
+client wifi {
+	ipaddr = 91.244.239.16
+	proto = *
+	secret = roo4thaiger8moh3Boh3
+	require_message_authenticator = no
+	nas_type = other
+}
